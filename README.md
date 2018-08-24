@@ -1,2 +1,2 @@
 # Time-Series-Analysis
-Merkle
+Please see the [Jupyter Notebook](./notebook/analysis.ipynb)
